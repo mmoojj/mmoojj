@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad
 ================================================================================================================================
 
-Mobile App Developer
+Mobile App Developer 📱 💻 💗
 --------------------
 
 I am a seasoned developer specializing in mobile application development using the Flutter framework, coupled with proficiency in crafting web pages through the Django framework. My enthusiasm lies in leveraging my skills within a dynamic and challenging environment, where I can apply my expertise to drive innovation.
