@@ -1,23 +1,10 @@
-### Hi there ✌️
-_ github
-<!--
-**mmoojj/mmoojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+<img alt="Static Badge" src="https://img.shields.io/badge/wellcome%20to%20my%20github%20page-brightgreen?style=flat&labelColor=red&color=red">
+🇮🇷  I`m mohammad jalali !
+<hr/>
+ Software Engineering from Islamic Azad University Najafabad Branch 🎓 💗 💻
+ ### Mobile App Developer 📱 💻
+ <img alt="Static Badge" src="https://img.shields.io/badge/follow%20me%20on%20-%3E%20-brightgreen?style=flat&labelColor=pink&color=green">
 
 
 
-
-<a href=&quothttps://github.com/mmoojj&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=mmoojj&quot />
-</a>
