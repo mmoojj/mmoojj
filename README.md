@@ -3,7 +3,7 @@
 🇮🇷  I`m mohammad jalali !
 <hr/>
  Software Engineering from Islamic Azad University Najafabad Branch 🎓 💗 💻
- ### Mobile App Developer 📱 💻
+ ## Mobile App Developer 📱 💻
  <img alt="Static Badge" src="https://img.shields.io/badge/follow%20me%20on%20-%3E%20-brightgreen?style=flat&labelColor=pink&color=green">
 
 
